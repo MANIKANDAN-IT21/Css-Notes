@@ -1,0 +1,30 @@
+body {
+  padding: 5%;
+  font-size: 5rem;
+}
+.para {
+  border: 10px solid red;
+  width: fit-content;
+}
+.para2 {
+  border: 10px dashed red;
+  /* default 100% irukum [mani       ]=width use panee fit-content[mani] */
+  width: fit-content;
+  width: 30ch;
+}
+p {
+  color: black;
+  font-size: 2rem; /* 2*16=32 */
+}
+.with {
+  background-color: aqua;
+  width: fit-content;
+  text-decoration: underline;
+  text-transform: uppercase;
+  text-align: justify;
+}
+
+input,
+button {
+  font-size: inherit;
+}
