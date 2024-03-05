@@ -1,1 +1,26 @@
 Element Selector
+(h1 venum h2venum, aprm h3 vennum)
+h1, h3, h2{
+}
+
+(h1 kulla h3 irutha athuku color change panu)
+h1 h3 h2{
+}
+p span{
+
+}
+------------------
+class selector(eg <h1 className="head">manikandan</h1>)
+.head{
+
+}
+------------------
+id selector(first perefernce)
+#head{
+
+}
+-------------------
+for all(universal)
+*{
+background-color:red,
+}

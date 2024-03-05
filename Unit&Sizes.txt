@@ -1,0 +1,11 @@
+Unit&Sizes
+----------
+display is made of pixels
+
+so mainly use px(pixel)
+html(default font size  pixel is 16px)
+
+Realative length unit
+------------------------
+  	2rem =default html 16(16*2=32px)
+	2em -default parent refer panum so(2*32=64px)
